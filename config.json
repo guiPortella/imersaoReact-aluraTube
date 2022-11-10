@@ -1,0 +1,26 @@
+{
+    "name": "Guilherme Portella",
+    "job": "Dev FrontEnd",
+    "github": "guiPortella",
+    "playlists":{
+        "jogos": [
+            {
+                "title": "Algum titulo",
+                "url": "url",
+                "thumb": "thumbnail do video"
+            },
+            {
+                "title": "Algum titulo2",
+                "url": "url",
+                "thumb": "thumbnail do video"
+            }
+        ],
+        "FrontEnd": [
+            {
+                "title": "Algum titulo",
+                "url": "url",
+                "thumb": "thumbnail do video"
+            }
+        ]
+    }
+}
